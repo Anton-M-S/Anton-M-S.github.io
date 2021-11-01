@@ -1,5 +1,3 @@
-# Anton Sikorsky
-
 ## **Contact**
 Phone: (204)588-4147
 
