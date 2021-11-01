@@ -11,6 +11,10 @@ Email: anton2298@gmail.com
 - Programming Languages: Java, Python, C, C++
 
 - Academic Projects:
+  - Robotic Restaurant Host
+    - Designed functions for a pepper robot to act as a restauirant host
+    - coducted user research, industry research
+    - Designed and ran tests to gague response to teh robot
   
 ## **Education**
 - Bachelor of Science - Computer Science
