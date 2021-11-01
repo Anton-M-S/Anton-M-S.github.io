@@ -14,7 +14,7 @@ Email: anton2298@gmail.com
   - Robotic Restaurant Host
     - Designed functions for a pepper robot to act as a restauirant host
     - coducted user research, industry research
-    - Designed and ran tests to gague response to teh robot
+    - Designed and ran tests to gague response to the robot
   
 ## **Education**
 - Bachelor of Science - Computer Science
