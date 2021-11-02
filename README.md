@@ -1,6 +1,4 @@
-
-
-# Title
+# Hosting a Resume as a Static Website on GitHub pages
 
 ## Purpose
 
@@ -23,6 +21,8 @@ Markdown will form the basis of your website. It is simpler and easier to use th
 ## Instructions
 1. Create a GitHub Account
 	If you already have an account, you can use it. Otherwise, head to https://github.com/ and follow the instructions there to create an account.
+	
+	- Using version control allows us to access, edit and update files from any device. This allows for easy updates to your resume. 
 		
 ---
 
@@ -30,7 +30,7 @@ Markdown will form the basis of your website. It is simpler and easier to use th
 
 	This is done by creating a Github Repository and naming it “yourGitHubUsername.github.io.” For more detailed instructions, you can find a link to a tutorial under [more resources](#More-Resources) below.
 
-	- Etter emphasizes keeping instructions simple. Considering that we are assuming that our audience is already familiar with GitHub this step can be kept short and sweet. Again, to avoid repetition, links are used to provide a more detailed breakdown.
+	- One of Etter's arguments for the use of static websites is that they have no software dependencies. All someone needs to view a static website is a web browser. This means that you do not need to worry about file type compatibility. Anybody with the address for a static website will be able to view it without issue.
 
 		
 ---
@@ -48,12 +48,22 @@ Markdown will form the basis of your website. It is simpler and easier to use th
 	- One of Etter's key points for using a static site generator is the ability to easily update and add information. Frontmatter is important for this. Frontmatter can be used to define layouts that act as formatting for pages so that you can add pages while easily maintaining a unified theme without duplicating work. 
 ---
 
-5. Pick a Theme
+5. Pick a theme
 
 	In [more resources](#More-Resources), there is a list of themes supported by GitHub pages. You can add themes by putting them in your frontmatter in _config.yml. Refer to the documentation of the chosen theme to find the exact code needed to do so as it varies from theme to theme. The code needed will either start with “theme:” or “remote_theme.”
 
-	- On GitHub pages, the chosen Jekyll theme provides the layout information mentioned in the previous step. 
+	- On GitHub pages, the chosen Jekyll theme provides the layout information mentioned in the previous step. This is important because it allows you to update the content of your page without worrying about affecting the formatting. This lines up with Etter's emphasis on making your writing easy to read and update.
 
+---
+6. Title your page
+
+	This step is not strictly necessary, but is useful to fully utilize the stylistic elements of your chosen theme. Most themes display the title differently from the rest of the page. In your _config.yml file, add the line "title: yourTitle" to set a title.
+
+See the video below for a short guide on setting a theme and title on Github pages. 
+
+![test gif](demo.gif)
+
+There you have it. You have successfully hosted your resume on GitHub pages and formatted it using a Jekyll theme. Now you can share your resume with a simple link. Additionally prospective employers will always see the most up-to-date version.
 ## More Resources:
 
 1. [Markdown Tutorial](https://www.markdowntutorial.com/)
@@ -76,11 +86,9 @@ Markdown will form the basis of your website. It is simpler and easier to use th
 
 ## FAQs
 
-#### Q. Why is markdown better than a word processor?
-A. Markdown is better than a word processor because it offers 
+1) Why is markdown better than a word processor?
+	Markdown is better than a word processor because it offers a widely recognized format, and can be written without the use of specialized editors. 
 
-#### Q. Why is my resume not showing up?
-A. If your resume is not showing up it can be because GitHub pages has not recognized that the file has been added to the repository. GitHub pages can take up to 20 minutes to recognize changes. This can be solved by waiting and refreshing the page. 
-	If that doesn't work, ensure that your resume is in a file called "index.md" and that there are no typos in the file name. 
-
-
+2) Why is my resume not showing up?
+	If your resume is not showing up it can be because GitHub pages has not recognized that the file has been added to the repository. GitHub pages can take up to 20 minutes to recognize changes. This can be solved by waiting and refreshing the page. 
+	If that doesn't work, it is possible that GitHub does not recognize the file that contains your resume. Ensure that your resume is in a file called "index.md" and that there are no typos in the file name that. 
