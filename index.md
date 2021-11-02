@@ -20,6 +20,7 @@ Email: anton2298@gmail.com
   - Focus on Human Computer Interaction and Graphics
 - Minor: Business
   - Focus on Marketing and Management
+
 ## **Work Experience**
 
 - 529 Wellington Steakhouse - Server Assistant and Food Runner
