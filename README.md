@@ -78,7 +78,7 @@ There you have it. You have successfully hosted your resume on GitHub pages and 
 3. [Adding a Jekyll Theme to github pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)
 
 4. [Jekyll Themes](https://pages.github.com/themes/)
-5. _Modern Technical Writing_ By Andrew Etter
+5. [Buy _Modern Technical Writing_ By Andrew Etter](amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
 ## Authors and Acknowledgments 
 
