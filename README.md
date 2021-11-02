@@ -1,3 +1,5 @@
+
+
 # Hosting a Resume as a Static Website on GitHub pages
 
 ## Purpose
@@ -80,7 +82,7 @@ There you have it. You have successfully hosted your resume on GitHub pages and 
 
 ## Authors and Acknowledgments 
 
-- Peer editors: 
+- Peer editors: Ikram Khan Shipon, Joshua Moreira, Kevin Kim, Ryan Campbell
 
 - [GitHub Pages themes](https://github.com/pages-themes/slate)
 
