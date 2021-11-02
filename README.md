@@ -28,7 +28,7 @@ Markdown will form the basis of your website. It is simpler and easier to use th
 
  2. Create a GitHub pages repository
 
-	This is done by creating a Github Repository and naming it “yourGitHubUsername.github.io.” For more detailed instructions, you can find a link to a tutorial under [more resources](#More-Resources) below.
+	This is done by creating a GitHub Repository and naming it “yourGitHubUsername.github.io.” For more detailed instructions, you can find a link to a tutorial under [more resources](#More-Resources) below.
 
 	- One of Etter's arguments for the use of static websites is that they have no software dependencies. All someone needs to view a static website is a web browser. This means that you do not need to worry about file type compatibility. Anybody with the address for a static website will be able to view it without issue.
 
@@ -86,9 +86,9 @@ There you have it. You have successfully hosted your resume on GitHub pages and 
 
 ## FAQs
 
-1) Why is markdown better than a word processor?
-	Markdown is better than a word processor because it offers a widely recognized format, and can be written without the use of specialized editors. 
+#### Q. Why is markdown better than a word processor?
+A. Markdown is better than a word processor because it offers a widely recognized format, and can be written without the use of specialized editors. It also has fewer features, which means it is much easier to learn and use, especially for simple documents that don't require complex features. 
 
-2) Why is my resume not showing up?
-	If your resume is not showing up it can be because GitHub pages has not recognized that the file has been added to the repository. GitHub pages can take up to 20 minutes to recognize changes. This can be solved by waiting and refreshing the page. 
+#### Q.  Why is my resume not showing up?
+A. If your resume is not showing up it can be because GitHub pages has not recognized that the file has been added to the repository. GitHub pages can take up to 20 minutes to recognize changes. This can be solved by waiting and refreshing the page. 
 	If that doesn't work, it is possible that GitHub does not recognize the file that contains your resume. Ensure that your resume is in a file called "index.md" and that there are no typos in the file name that. 
