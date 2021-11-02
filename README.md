@@ -80,5 +80,5 @@ Markdown will form the basis of your website. It is simpler and easier to use th
 	Markdown is better than a word processor because it offers 
 
 2) Why is my resume not showing up?
-	If your resume is not showing up it can be because GitHub pages has not recognized that the file has been added to the repository. GitHub pages can take up to 20 minutes to recognize changes. This can be solved by waiting and refreshing the page. 
+If your resume is not showing up it can be because GitHub pages has not recognized that the file has been added to the repository. GitHub pages can take up to 20 minutes to recognize changes. This can be solved by waiting and refreshing the page. 
 	If that doesn't work, ensure that your resume is in a file called "index.md" and that there are no typos in the file name. 
