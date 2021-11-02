@@ -4,7 +4,7 @@
 
 These instructions will walk you through hosting your resume as a static website on GitHub pages using markdown and Jekyll. Hosting your resume using these tools allows you to easily update your resume without needing to redistribute it. That way if you make a change to your resume it will become visible to everybody who you have already shared it with.
 
-	Andrew Etter suggests that all Functional documentation includes a description of what the product is and why it is useful. This first paragraph does just that.
+- Andrew Etter suggests that all Functional documentation includes a description of what the product is and why it is useful. This first paragraph does just that.
 
 ## Prerequesites
 
@@ -16,7 +16,7 @@ Jekyll is a static site generator which will provide structure and design to you
 
 Markdown will form the basis of your website. It is simpler and easier to use than other languages such as HTML. If you are unfamiliar with markdown, a tutorial can be found under [more resources](#More-Resources) down below.
 
-	The prerequesites section satisfies Andrew Etter’s recommendation to let your readers know what the dependencies are and how it feeds into a broader ecosystem. It describes the tools that will be used (the dependencies) and explains how they work together. It also covers his recommendation for install instructions. Install instructions are provided primarily through links because Etter recommends using links to previously written tutorials, rather than repeating information that is already available.
+- The prerequesites section satisfies Andrew Etter’s recommendation to let your readers know what the dependencies are and how it feeds into a broader ecosystem. It describes the tools that will be used (the dependencies) and explains how they work together. It also covers his recommendation for install instructions. Install instructions are provided primarily through links because Etter recommends using links to previously written tutorials, rather than repeating information that is already available.
 
 ## Instructions
 
@@ -25,7 +25,7 @@ Markdown will form the basis of your website. It is simpler and easier to use th
 
 	This is done by creating a Github Repository and naming it “yourGitHubUsername.github.io.” For more detailed instructions, you can find a link to a tutorial under [more resources](#More-Resources) below.
 
-		Etter emphasizes keeping instructions simple. Considering that we are assuming that our audience is already familiar with GitHub this step can be kept short and sweet. Again, to avoid repetition, links are used to provide a more detailed breakdown.
+- Etter emphasizes keeping instructions simple. Considering that we are assuming that our audience is already familiar with GitHub this step can be kept short and sweet. Again, to avoid repetition, links are used to provide a more detailed breakdown.
 
 2. Upload your resume to GitHub
 
