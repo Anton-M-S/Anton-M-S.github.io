@@ -8,11 +8,11 @@ These instructions will walk you through hosting your resume as a static website
 
 ## Prerequesites
 
-Jekyll
+### Jekyll
 
 Jekyll is a static site generator which will provide structure and design to your website. You can either use a built-in theme on GitHub pages or install it on your machine. You can find instructions on how to do both as well as a list of pre-built themes under [more resources](#More-Resources) below. These instructions will walk you through using the themes available on Github pages.
 
-A Resume, formatted in Markdown
+### A Resume, formatted in Markdown
 
 Markdown will form the basis of your website. It is simpler and easier to use than other languages such as HTML. If you are unfamiliar with markdown, a tutorial can be found under [more resources](#More-Resources) down below.
 
