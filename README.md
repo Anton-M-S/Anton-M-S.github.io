@@ -30,7 +30,10 @@ Markdown will form the basis of your website. It is simpler and easier to use th
 
  2. **Create a GitHub pages repository**
 
-	On GitHub, click teh green button in the top left that says **New**. ![new button](new.png)
+	On GitHub, click the green button in the top left that says **New**. 
+	
+	![new button](new.png)
+	
 	This will create a new repository. When prompted for a name, enter “yourGitHubUsername.github.io.” For more detailed instructions, you can find a link to a tutorial under [more resources](#More-Resources) below.
 
 	- One of Etter's arguments for the use of static websites is that they have no software dependencies. All someone needs to view a static website is a web browser. This means that you do not need to worry about file type compatibility. Anybody with the address for a static website will be able to view it without issue.
